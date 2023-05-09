@@ -1,17 +1,13 @@
 <h1>Laboratório do SysAdmin: Solução de problemas e suporte técnico para usuários</h1>
 <p>Neste projeto, vamos criar um ambiente virtual com as ferramentas necessárias para a solução de problemas e suporte técnico aos usuários. Para isso, vamos utilizar o Vagrant para criar uma máquina virtual com o Ubuntu e instalar as seguintes ferramentas:</p>
+
 <ul>
-  <li><a href="https://www.teamviewer.com/pt-br/" target="_blank"><img src="https://img.icons8.com/color/48/000000/teamviewer.png"/> TeamViewer</a></li>
-  <li><a href="https://www.anydesk.com/pt" target="_blank"><img src="https://img.icons8.com/color/48/000000/anydesk.png"/> AnyDesk</a></li>
-  <li><a href="https://remmina.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/remmina.png"/> Remmina</a></li>
-  <li><a href="https://www.logmein.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/logmein.png"/> LogMeIn</a></li>
-  <li><a href="https://www.teamviewer.com/pt-br/download/previous-versions/" target="_blank"><img src="https://img.icons8.com/color/48/000000/teamviewer.png"/> TeamViewer 11</a></li>
-  <li><a href="https://www.teamviewer.com/pt-br/download/previous-versions/" target="_blank"><img src="https://img.icons8.com/color/48/000000/teamviewer.png"/> TeamViewer 12</a></li>
-  <li><a href="https://www.teamviewer.com/pt-br/download/previous-versions/" target="_blank"><img src="https://img.icons8.com/color/48/000000/teamviewer.png"/> TeamViewer 13</a></li>
-  <li><a href="https://www.teamviewer.com/pt-br/download/previous-versions/" target="_blank"><img src="https://img.icons8.com/color/48/000000/teamviewer.png"/> TeamViewer 14</a></li>
-  <li><a href="https://www.teamviewer.com/pt-br/download/previous-versions/" target="_blank"><img src="https://img.icons8.com/color/48/000000/teamviewer.png"/> TeamViewer 15</a></li>
-  <li><a href="https://www.teamviewer.com/pt-br/download/previous-versions/" target="_blank"><img src="https://img.icons8.com/color/48/000000/teamviewer.png"/> TeamViewer 16</a></li>
+  <li><a href="https://www.teamviewer.com/pt-br/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/teamviewer.png"/> TeamViewer</a></li>
+  <li><a href="https://www.anydesk.com/pt" target="_blank"><img src="https://img.icons8.com/cotton/64/000000/anydesk.png"/> AnyDesk</a></li>
+  <li><a href="https://remmina.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/remmina.png"/> Remmina</a></li>
+  <li><a href="https://www.logmein.com/" target="_blank"><img src="https://img.icons8.com/cotton/64/000000/logmein.png"/> LogMeIn</a></li>
 </ul>
+
 <h2>Passo a passo</h2>
 <h3>1. Pré-requisitos</h3>
 <p>Antes de começar, é necessário ter instalado em seu computador o <a href="https://www.virtualbox.org/" target="_blank">VirtualBox</a> e o <a href="https://www.vagrantup.com/" target="_blank">Vagrant</a>.</p>
