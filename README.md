@@ -2,10 +2,8 @@
 <p>Neste projeto, vamos criar um ambiente virtual com as ferramentas necessárias para a solução de problemas e suporte técnico aos usuários. Para isso, vamos utilizar o Vagrant para criar uma máquina virtual com o Ubuntu e instalar as seguintes ferramentas:</p>
 
 <ul>
-  <li><a href="https://www.teamviewer.com/pt-br/" target="_blank"><img src="https://img.icons8.com/color/48/000000/teamviewer.png"/> TeamViewer</a></li>
   <li><a href="https://www.anydesk.com/pt" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/anydesk.png"/> AnyDesk</a></li>
   <li><a href="https://remmina.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/remote-desktop.png"/> Remmina</a></li>
-  <li><a href="https://www.logmein.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/logmein.png"/> LogMeIn</a></li>
 </ul>
 
 <h2>Passo a passo</h2>
